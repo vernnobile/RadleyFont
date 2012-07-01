@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="1451"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="612" y="241" type="curve" smooth="yes"/>
+      <point x="612" y="1228" type="line"/>
+      <point x="466" y="1228" type="line" smooth="yes"/>
+      <point x="417" y="1228"/>
+      <point x="367" y="1227"/>
+      <point x="320" y="1220" type="curve" smooth="yes"/>
+      <point x="214" y="1204"/>
+      <point x="167" y="1056"/>
+      <point x="106" y="982" type="curve"/>
+      <point x="60" y="982" type="line"/>
+      <point x="85" y="1308" type="line"/>
+      <point x="226" y="1302"/>
+      <point x="369" y="1301"/>
+      <point x="511" y="1301" type="curve" smooth="yes"/>
+      <point x="641" y="1301"/>
+      <point x="771" y="1302"/>
+      <point x="901" y="1302" type="curve" smooth="yes"/>
+      <point x="945" y="1302"/>
+      <point x="988" y="1302"/>
+      <point x="1032" y="1302" type="curve" smooth="yes"/>
+      <point x="1141" y="1302"/>
+      <point x="1250" y="1303"/>
+      <point x="1359" y="1310" type="curve"/>
+      <point x="1391" y="981" type="line"/>
+      <point x="1343" y="981" type="line"/>
+      <point x="1284" y="1054"/>
+      <point x="1237" y="1205"/>
+      <point x="1135" y="1220" type="curve" smooth="yes"/>
+      <point x="1084" y="1228"/>
+      <point x="1032" y="1228"/>
+      <point x="980" y="1228" type="curve" smooth="yes"/>
+      <point x="827" y="1228" type="line"/>
+      <point x="827" y="241" type="line" smooth="yes"/>
+      <point x="827" y="80"/>
+      <point x="916" y="69"/>
+      <point x="1053" y="52" type="curve"/>
+      <point x="1053" y="35"/>
+      <point x="1053" y="17"/>
+      <point x="1051" y="0" type="curve"/>
+      <point x="389" y="0" type="line"/>
+      <point x="387" y="52" type="line"/>
+      <point x="495" y="89"/>
+      <point x="612" y="95"/>
+    </contour>
+    <contour>
+      <point x="702" y="1302" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="702" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="702" y="651" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
